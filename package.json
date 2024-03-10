@@ -1,0 +1,26 @@
+{
+"name": "error-loggingjintyunqihao888",
+"version": "1.0.0",
+"description": "The project logs detailed error messages, helping you quickly locate and resolve issues.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/millardmurdoc/Error-Logging.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "millardmurdoc",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
